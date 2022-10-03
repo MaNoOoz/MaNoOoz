@@ -15,10 +15,9 @@
 
 - 💬 Ask me about **Flutter - Android**
 
-- 📫 How to reach me **yaman/alkhateb@gmail.com**
+- 📫 How to reach me **yaman.alkhateb@gmail.com**
 
 - ⚡ Games i love **Apex Legends - God Of War - Generals**
-
 
 <h3 align="left">Connect with me:</h3>
 
